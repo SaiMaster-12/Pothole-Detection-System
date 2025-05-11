@@ -108,7 +108,7 @@ A pre-trained YOLOv8 model (.pt file) for pothole detection is already included 
 
 ### 6. Configure Email Settings
 
-Edit `email_config.py`:
+Edit `Main1.py`:
 
 ```python
 SENDGRID_API_KEY=''
