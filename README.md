@@ -1,5 +1,8 @@
 # Pothole Detection System
 
+**Detailed Blog Post:**
+[Read the full article on Medium](https://medium.com/@saikiranjavalkar/what-if-roads-could-report-their-own-damage-a5b5fa06e234)
+
 ## Overview
 The **Pothole Detection System** is a real-time computer vision-based solution that detects potholes on roads using the YOLOv8 object detection model. It leverages a Raspberry Pi 4 for on-device processing and automatically sends **email notifications to the road authority manager** upon detecting a pothole.
 
